@@ -1,9 +1,9 @@
 # Bancoudea frontend
 
 ## Integrantes 
-Santiago Zapata Barahona
-Mateo Gaviria
-José Murillo 
+- Santiago Zapata Barahona
+- Mateo Gaviria
+- José Murillo 
 
 Este proyecto corresponde al frontend del laboratorio bancoudea. Se utilizó React con Vite, Typescript, tailwindcss y react router.
 
