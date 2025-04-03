@@ -7,4 +7,5 @@
 
 Este proyecto corresponde al frontend del laboratorio bancoudea. Se utilizó React con Vite, Typescript, tailwindcss y react router.
 
-![image](https://github.com/user-attachments/assets/48627fe2-b5ee-42d1-abda-cc2367f82bd2)
+https://github.com/user-attachments/assets/8e81fcc2-6703-4d9f-a274-65c62d0155f7
+
